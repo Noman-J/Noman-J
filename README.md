@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Noman-J aka Muhammad Noman Jafar
+- I am a future software engineer and Machine Learning Developer.
+- 👀 I’m interested in Artificial Intelligence, cloud computing, Neural Networks and Web Development.
+- 🌱 I’m currently learning Data structures, Databases, Model Tuning and Web Architecure.
+- 💞️ I’m looking to collaborate on projects involving machine learning, web development, optimized data structures.
+- 📫 How to reach me: Gmail: nomanjafar.mail@gmail.com
